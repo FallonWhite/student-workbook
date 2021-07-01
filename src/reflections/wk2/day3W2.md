@@ -4,4 +4,4 @@ Which tab allows you to see the breakdown of HTML/CSS and how can this tab be us
 
 Outside of writing everything to the console, what is a better way to debug your code?
 
-Afternoon: 
+Afternoon: https://github.com/FallonWhite/RockPaperScissors
