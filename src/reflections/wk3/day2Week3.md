@@ -1,15 +1,7 @@
-What are the three states of a Promise?
+What is the purpose of Encapsulation?
 
-Pending: Initial State, before the Promise succeeds or fails
-Resolved: Completed Promise
-Rejected: Failed Promise
+What were some of the problems with closures and the underscore prefix?
 
-How do promises seek to resolve the issues of "callback hell"?
-
-We attach a callback to a promise rather than passing it (by using chaining). If we handle the same operation with Promises, since we can attach Callbacks rather than passing them, the code is cleaner, and easier to read. 
-
-What is the difference between .then() and .catch()?
-
-The then( ) method is called after the Promise is resolved. Then we can decide what to do with the resolved Promise. If the promise gets rejected, it will jump to the catch( ) method.
+How do we create private variables in a ES6 Class? Why would you do this?
 
 Afternoon: https://github.com/FallonWhite/VendingMachine

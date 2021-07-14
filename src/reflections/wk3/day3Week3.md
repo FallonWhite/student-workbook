@@ -1,13 +1,7 @@
-What is the purpose of Async/Await?
+What are the two common operations that we will set in the handler?
 
-Async functions are a combination of promises and generators, and basically, they are a higher level abstraction over promises. Async function returns a promise; when you want to call this function you prepend await, and the calling code will stop until the promise is resolved or rejected.
+What do you have to make sure you are doing with every Get to insure the value does not become undefined?
 
-What must you do in order to await a promise inside of a function?
-
-
-
-What are some of the primary benefits of Async/Await?
-
-
+What are some of the benefits of the proxy object that we are using in our structure for applications?
 
 Afternoon: 
