@@ -4,4 +4,4 @@ What do you have to make sure you are doing with every Get to insure the value d
 
 What are some of the benefits of the proxy object that we are using in our structure for applications?
 
-Afternoon: 
+Afternoon: https://fallonwhite.github.io/gregslist-mvc/
