@@ -10,4 +10,4 @@ Summarize the 3 ways to avoid / fix Callback Hell
 
 Write clean code, and try to keep files under 150 lines. Keep your code shallow. Modularize. Handle every single error.
 
-Afternoon: 
+Afternoon: https://github.com/FallonWhite/OpenTrivia-Mythology
