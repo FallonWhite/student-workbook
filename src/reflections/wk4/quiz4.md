@@ -3,27 +3,27 @@
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
 ```
-
+Async takes some time. Synch happens in sync. 
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
 ```
-
+An event listener is a procedure in JavaScript that waits for an event to occur.
 ```
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+O - Open / Closed classes should be open for extension but closed for modification
 ```
 **4.** What is a callback / higher order function?
 <!-- enter you answer in the space below -->
 ```
-
+Callbacks are just the name of a convention for using JavaScript functions. Instead of immediately returning some result like most functions, functions that use callbacks take some time to produce a result.
 ```
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
-
+A promise is an object, with three states, much like an actual promise IRL. You would use the catch() method, after the then() method to capture and error.
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
