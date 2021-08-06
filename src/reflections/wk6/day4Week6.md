@@ -10,4 +10,4 @@ Can you pass parameters through nested routes? When might you use them?
 
 Yes, in addition to query the parent passes value to the child. There are cases for params to pass the value to the child. Basically if you want to have the children have the same info as the parent you would use them.
 
-Afternoon: 
+Afternoon: https://github.com/FallonWhite/BloggerLab

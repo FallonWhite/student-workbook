@@ -10,4 +10,4 @@ What are mounting hooks? When might you use them?
 
 Mounting hooks are the most used hooks that allow you to access your component immediately before eand after first render. They can be used if you need to access or modify the DOM of your component immediately before or after initial render.
 
-Afternoon: https://github.com/FallonWhite/late-summer21-gregslist-node
+Afternoon: https://github.com/FallonWhite/late-summer21-gregslist-vue
