@@ -1,9 +1,7 @@
 Why is communication on a small team important?
 
 Clarification. Identifying needs to make changes to existing process, or timeline. Ensure all members are on the same page. Info can get lost in translation, especially over time.
-
 What adjustments from traditional sized scrum teams need to be made to use the agile methodology effectively in a small team?
-
 Reduce number of meetings.
 
 What is the unattainable triangle? What are the tradeoffs of each side?
