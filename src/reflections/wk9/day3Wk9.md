@@ -10,4 +10,4 @@ What is the unattainable triangle and what purpose does it have in Scrum?
 
 Good service Cheap won't be Fast. Good service Fast won't be Cheap. Fast service Cheap won't be Good. The paradox is the set of tradeoffs between the speed of development and the quality of the software delivered. Scrum comes in when it comes to balancing those, and maximizing the efficiency of a team.
 
-Afternoon: Capstone
+Afternoon: Capstone https://github.com/CyberTomB/foodiechews
