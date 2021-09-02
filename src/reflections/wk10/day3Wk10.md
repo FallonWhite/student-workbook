@@ -16,5 +16,6 @@ What is the difference between the following statements:
 DELETE FROM table_name;
 DROP TABLE table_name;
 
+DROP would remove all info and couldn't be recovered. The DELETE allow you to delete an item from the table but leaves the column structure intact
 
-Afternoon:
+Afternoon: Still sick at home. Struggled with powershell until I gave up and read through the Foundations of C# and the SQL. Sidenote - It should totally be a rule that if you're sick you can't come into codeworks. If it was policy I wouldn't be feeling like death atm, and unable to focus, just saying
