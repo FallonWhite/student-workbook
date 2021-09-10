@@ -2,8 +2,17 @@ Write a review and reflection of your experiences in this course, as this is the
 
 Concerns:
 
+My only real concern at this moment is the final, honestly. I feel like I was given some good learning tools so that after this camp I can continue learning with a clearer focus of where I need to invest my time. 
+During our capstone project there was a cold going around school. I ended up sick right after and I have an issue with my immune system where a cold is rarely ever just a cold; my body basically tries to attack itself so I end up with other issues. I have been sick since we started learning c# so I am extremely concerned with my knowledge there. I was able to attend lecture via zoom, but the brain fog and exhaustion made retention extremely difficult. I am extremely focused on studying as much as I can over the weekend while also working on my final. I am concerned about the amount of time I have, combined with still recovering and taking care of my body.
 
 Time Management: 
 
+I plan on starting on my final immediately, doing what I know on the backend, making notes on what I don't so that I can go back to study prior to moving on to the frontend. I plan on working in 2 hour increments, taking short breaks, but will adjust this plan if necessary. In the beginning I approached coding wrong in terms of just trying to work through without breaks just trying to get it done, which causes stupid avoidable mistakes. Breaks are important when it comes to clarity and focus. I will continue forward listening to my body/mind in terms of what it needs instead of just wanting to hyperfocus for several hours without breaks. Now I understand coding is not like any other job where you can just crush it working for 10 hours at a time. When I get stuck I will search for the answer but move on if I cannot find it in a timely manner. I recognize the importance of time boxing, which I didn't when I started this camp.
 
 Enjoyed Most: 
+
+I enjoy the design of coding the most, just learning how to make an app look/feel good. 
+
+The challenges in terms of feeling like I was hitting a wall and was a complete failure, but instead of walking away because it was ridiculously hard for me it just made me want it more and bust through the wall. It was frustrating, but awesome to prove to myself that I can do something that I'm not good at and don't have to be perfect in order to enjoy. I have spent most of my life being a perfectionist and over achiever so going through this camp and being terrible at something, but teaching myself to be okay with that was an important life lesson. Learning to fail sucked, but reflecting on it, I'm better because of it. This is probably the hardest thing I have done, so I enjoyed challenging myself.
+
+When I was young I was interested in computer science, but I was treated like crap by the "smart" kids, then was judged really harshly during a class I took to learn HTML over 20 years ago so I was only in it for about 2 weeks. I ignored my desire to get into the industry because of my negative experiences, so really I feel like this may have been a much bigger deal to me than I thought it would be, even just getting through week 11. I've enjoyed the challenges, the growth, and finding out that all "smart" people aren't mean haha.
